@@ -8,7 +8,7 @@ I'm mostly interested in :
 - Fullstack dev 🕸
 - Game dev 🎮
 - HCI (Human-Computer Interactions)
+<br>
+Currently working on a pokemon themed website with [Andgel Barzana](https://github.com/voolak) (soon to be released)
 
 [Check-out my website !](https://aciorascu.me)
-
-(Currently working on a pokemon themed website !)
