@@ -9,6 +9,7 @@ I'm mostly interested in :
 - Game dev 🎮
 - HCI (Human-Computer Interactions)
 <br>
-Currently working on a pokemon themed website with [Andgel Barzana](https://github.com/voolak)
+
+Currently working on a pokemon themed website with [Andgel Barzana](https://github.com/voolak) (soon to be released)
 
 [Check-out my website !](https://aciorascu.me)
