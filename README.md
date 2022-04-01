@@ -1,6 +1,6 @@
 ### ✨ Hi there, I'm Alexandre and welcome to my GitHub page ✨
 
-I'm a student at Université Paris-Saclay and I'm doing the HCI master 👨‍💻
+I'm a student at Université Paris-Saclay in the the HCI master 👨‍💻
 <br>
 I'm mostly interested in : 
 <br>
