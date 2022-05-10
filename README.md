@@ -1,4 +1,4 @@
-### ✨ Hi there, I'm Alexandre and welcome to my GitHub page ✨
+### ✨ Hello there, I'm Alexandre and welcome to my GitHub page ✨
 
 I'm a student at Université Paris-Saclay in the the HCI master 👨‍💻
 <br>
