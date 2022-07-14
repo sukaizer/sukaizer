@@ -12,6 +12,6 @@ I'm mostly interested in :
 
 Currently working on : 
 - a [pokémon themed website](https://pokeviewer.com/) with [Andgel Barzana](https://github.com/voolak) (nightly version)
-- multiple games, using godot and pygame
+- multiple games, using godot and unity
 
 [Check-out my website !](https://aciorascu.me)
