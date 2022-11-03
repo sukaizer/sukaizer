@@ -10,6 +10,7 @@ I'm mostly interested in :
 <br>
 
 Currently working on : 
-- vr game dev using unity
+- VR game dev using unity and Meta Quest 2
+- Learning 3D modelling and dev using Blender
 
 [Check-out my website !](https://aciorascu.me)
