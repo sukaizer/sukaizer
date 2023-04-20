@@ -6,11 +6,9 @@ I'm mostly interested in :
 <br>
 - Software dev 🖥
 - Game dev 🎮
-- HCI (Human-Computer Interactions)
+- Interaction Design
 <br>
 
 Currently working on : 
-- VR game dev using unity and Meta Quest 2
+- VR dev using unity
 - Learning 3D modelling and dev using Blender
-
-[Check-out my website !](https://aciorascu.me)
