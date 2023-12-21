@@ -1,14 +1,15 @@
 ### ✨ Hello there, I'm Alexandre and welcome to my GitHub page ✨
 
-I'm a student at Université Paris-Saclay in the the HCI master 👨‍💻
+I'm a Human-Computer Interaction student at Université Paris-Saclay 👨‍💻
 <br>
 I'm mostly interested in : 
 <br>
 - Software dev 🖥
 - Game dev 🎮
-- Interaction Design
+- Interaction Design 🧠
 <br>
 
 Currently working on : 
-- VR dev using unity
-- Learning 3D modelling and dev using Blender
+- Three.js & React board game
+
+Check my latest website : <a href="https://weather.alexciorascu.com" target="_blank" rel="noopener noreferrer">Dress Up!</a>
