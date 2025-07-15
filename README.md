@@ -1,5 +1,6 @@
 ### ✨ Hello there, I'm Alexandre and welcome to my GitHub page ✨
 I'm a Software Engineer at Dassault Systèmes 💻
+<br>
 I have a Master's Degree in Human-Computer Interaction from Université Paris-Saclay 👨‍💻
 <br>
 I'm mostly interested in : 
