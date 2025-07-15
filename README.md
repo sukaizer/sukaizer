@@ -1,11 +1,11 @@
 ### ✨ Hello there, I'm Alexandre and welcome to my GitHub page ✨
-
-I'm a Human-Computer Interaction student at Université Paris-Saclay 👨‍💻
+I'm a Software Engineer at Dassault Systèmes 💻
+I have a Master's Degree in Human-Computer Interaction from Université Paris-Saclay 👨‍💻
 <br>
 I'm mostly interested in : 
 <br>
-- Software dev 🖥
-- Game dev 🎮
+- Web development 🖥
+- Gaming 🎮
 - Interaction Design 🧠
 <br>
 
